@@ -1,3 +1,9 @@
+# 重要提醒
+anyRTC 对该版本已经不再维护，如需娃娃机方案，请前往官网联系客服获取。
+
+**公司网址： [www.anyrtc.io](https://www.anyrtc.io)**
+
+
 # anyRTC_wawaji_online
 anyRTC 在线娃娃机解决方案。
 
